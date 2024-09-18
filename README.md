@@ -1,0 +1,3 @@
+Llama 2 is an open-source large language model developed by Meta, available for free research and commercial use. It outperforms other open-source models in various benchmarks, except for code generation. The video demonstrates creating an end-to-end blog generation application using Llama 2 and the Hugging Face library.
+
+The Llama 2 release introduces a family of pretrained and fine-tuned LLMs, ranging in scale from 7B to 70B parameters (7B, 13B, 70B). The pretrained models come with significant improvements over the Llama 1 models, including being trained on 40% more tokens, having a much longer context length (4k tokens 🤯), and using grouped-query attention for fast inference of the 70B model🔥!
